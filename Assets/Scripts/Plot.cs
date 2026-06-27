@@ -35,7 +35,7 @@ public class Plot : MonoBehaviour
     //text.text will be the variable type "string". Just text will be TMP.
     //You need to be in the right variable type or the computer has no clue what's going on.
 
-    public TextMeshPro strawbText;
+    public TextMeshProUGUI strawbText;
     public GameObject textBox, strawberry, strawberry1, strawberry2, strawberry3, strawberry4, strawberry5, character, character2, ths, nx, ys, n, win;
     static public int strawbCount;
     static public int dia;
